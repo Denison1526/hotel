@@ -109,7 +109,7 @@ h1,h2,h3,h4,p,ul{
   font-size: 20px;
 }
 .user-ass{
-  background-image: url(/img/Vector.svg);
+  background-image: url(/hotel/img/Vector.svg);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 35px;
@@ -180,17 +180,17 @@ color: #333333;
   padding-right: 234px;
   width: 573px;
   height: 258px;
-  background-image: url("/img/2.svg");
+  background-image: url("/hotel/img/2.svg");
 }
 .hero__card-mini:not(:last-child){
   margin-bottom: 23px;
-  background-image: url("/img/1.svg");
+  background-image: url("/hotel/img/1.svg");
 }
 .hero__card__more{
   background: none;
   color: #FFCC66;
   padding-right: 20px;
-  background-image: url(/img/стрелка\ 2.svg);
+  background-image: url("/hotel/img/стрелка\ 2.svg");
   background-repeat: no-repeat;
   background-position: right center;
   color: #FFCC66;
@@ -202,7 +202,7 @@ color: #333333;
   padding-right: 234px;
   width: 573px;
   font-weight: 700;
-  background-image: url("/img/3.svg");
+  background-image: url("/hotel/img/3.svg");
 }
 .hero__card__header{
   font-weight: 700;
@@ -225,7 +225,7 @@ color: #333333;
 }
 .services__list__item__link{
   padding-right: 30px;
-  background-image: url(/img/стрелка\ 2.svg);
+  background-image: url("/hotel/img/стрелка\ 2.svg");
   background-repeat: no-repeat;
   background-position: right center;
   color: #FFCC66;
@@ -312,49 +312,49 @@ margin-left: 50px;
     line-height: 2;
   }
   .pluses__list__item1{
-    background-image: url(/img/Ванна.png);
+    background-image: url("/hotel/img/Ванна.png");
     background-repeat: no-repeat;
     background-size: 66px;
     background-position: 45px 40px;
   }
   .advantages-item2{
-    background-image: url(/img/вешалка.png);
+    background-image: url("/hotel/img/вешалка.png");
     background-repeat: no-repeat;
     background-size: 66px;
     background-position: 45px 40px;
   }
   .advantages-item3{
-    background-image: url(/img/отопление.png);
+    background-image: url("/hotel/img/отопление.png");
     background-repeat: no-repeat;
     background-size: 66px;
     background-position: 45px 40px;
   }
   .advantages-item4{
-    background-image: url(/img/ключ.png);
+    background-image: url("/hotel/img/ключ.png");
     background-repeat: no-repeat;
     background-size: 66px;
     background-position: 45px 40px;
   }
   .advantages-item5{
-    background-image: url(/img/парковка.png);
+    background-image: url("/hotel/img/парковка.png");
     background-repeat: no-repeat;
     background-size: 66px;
     background-position: 45px 40px;
   }
   .pluses__list__item6{
-    background-image: url(/img/звонок.png);
+    background-image: url("/hotel/img/звонок.png");
     background-repeat: no-repeat;
     background-size: 66px;
     background-position: 45px 40px;
   }
   .pluses__list__item7{
-    background-image: url(/img/сейф.png);
+    background-image: url("/hotel/img/сейф.png");
     background-repeat: no-repeat;
     background-size: 66px;
     background-position: 45px 40px;
   }
   .pluses__list__item8{
-    background-image: url(/img/бассейн.png);
+    background-image: url("/hotel/img/бассейн.png");
     background-repeat: no-repeat;
     background-size: 66px;
     background-position: 45px 40px;
@@ -395,7 +395,7 @@ margin-left: 50px;
     align-items: flex-end;
     padding-bottom: 34px;
     padding-left: 53px;
-    background-image: url(/img/камни.svg);
+    background-image: url("/hotel/img/камни.svg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -405,7 +405,7 @@ margin-left: 50px;
     font-size: 20px;
     padding-right: 18px;
     color: #E1E1E1;
-    background-image: url(/img/Rectangle\ 2.svg);
+    background-image: url("/hotel/img/Rectangle\ 2.svg");
     background-position: right center;
     background-repeat: no-repeat;
   }
@@ -552,7 +552,7 @@ margin-left: 50px;
 .contacts-content{
   padding: 45px;
   border-radius: 10px;
-  background-image: url(/img/Layer\ 2\ 1.jpg);
+  background-image: url("/hotel/img/Layer\ 2\ 1.jpg");
   background-repeat: no-repeat;
   background-position: right 47px center;
   background-color:white;
